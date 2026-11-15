@@ -1,0 +1,3 @@
+# Runtime assets are generated locally by scripts/build_asset.py.
+*
+!.gitignore
